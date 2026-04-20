@@ -40,6 +40,10 @@ The app uses a layered architecture:
 
 SPM dependencies are resolved automatically by Xcode on first build.
 
+## Demo Video
+
+- [Watch demo (Google Drive)](https://drive.google.com/file/d/1ecFWPd4XuMVb6EkEBpQhCT4iIuXHvYEG/view?usp=sharing)
+
 ## API Configuration
 
 Base URL and headers are configured in:
